@@ -1,6 +1,6 @@
 /* 
 THis code is written to recieve and send data from an arduino to Minized
-
+*/
 
 #include <stdio.h>
 #include "platform.h"
